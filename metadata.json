@@ -1,0 +1,5 @@
+{
+  "name": "React Sudoku",
+  "description": "A beautifully designed and interactive Sudoku game built with React, TypeScript, and Tailwind CSS. Features include multiple difficulty levels, smart highlighting, and validation to provide a seamless puzzle-solving experience.",
+  "requestFramePermissions": []
+}
